@@ -5,7 +5,7 @@
 
 ## 🚀 About Me
 
-# 📈 Data Storyteller | 🤖 ML Engineer
+# 📈 Data Enginner | 🤖 ML Engineer
 
 • Python (Fluent) 🐍
 • JavaScript (Conversational) 💛
