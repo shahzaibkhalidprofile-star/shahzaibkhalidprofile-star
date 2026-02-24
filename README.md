@@ -4,10 +4,21 @@
 ---
 
 ## 🚀 About Me
-- 🎓 Data Science Student
-- 💻 Passionate about Python & Machine Learning
-- 📊 Skilled in Data Analysis & Visualization
-- 🚀 Focused on building real-world projects
+
+# 📈 Data Storyteller | 🤖 ML Engineer
+
+• Python (Fluent) 🐍
+• JavaScript (Conversational) 💛
+• SQL (Native) 🗄️
+
+🎯 Specialties:
+   🔹 Machine Learning & AI
+   🔹 Data Visualization (Matplotlib, Seaborn, Power BI)
+   🔹 Backend Development (Django, Flask)
+
+🌱 Currently: Building end-to-end data pipelines
+💞️ Open to collaborate on Data Science projects
+
 
 ---
 
