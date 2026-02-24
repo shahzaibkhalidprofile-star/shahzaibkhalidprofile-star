@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahzaib Khalid</h1>
-<h3 align="center">Data Science Student | Python Developer | Future ML Engineer</h3>
+<h3 align="center">Data Science Student | Python Developer | ML Engineer</h3>
 
 ---
 
